@@ -1,5 +1,5 @@
-# OOM Mini project
-
+# Cross Platform Media Player | JavaFx
+A crossplatform media player, made on JavaFx supporting functionalities like Play/pause, Speed Up/Slow Down and mouse gestures.
 ## Contributors:-
 1) https://github.com/Tushargupta9800
 2) https://github.com/utkarshrocks
@@ -22,8 +22,4 @@
 6) You can play any song from the queue by selecting it
 7) Make Your Own Playlist
 8) Edit the PLaylist
-9) Shuffle the songs
-
-# About Project:-
-This is a group assignment given to a group of four (All four contributors mentioned above)<br/>
-In This project we have to make a media player which can run media files with ease.
+9) Shuffle the songs.
